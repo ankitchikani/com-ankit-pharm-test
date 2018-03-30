@@ -1,0 +1,3 @@
+|  oneway     | 2         | Paris         | London       |Business       |No Preference      |Unified Airlines 363   |Blue Skies Airlines 631| $584 USD     |MasterCard      |3694568952364551|  06  |2004 |
+      |  oneway     | 3         | Frankfurt     | New York     |First          |Unified Airlines   |Blue Skies Airlines 361|Pangea Airlines 632    | $584 USD     |Visa            |2552366314414567|  08  |2006 |
+      |  roundtrip  | 4         | Paris         | London       |Business       |Pangea Airlines    |Pangea Airlines 362    |Unified Airlines 633   | $584 USD     |Diners Club     |7458789665587845|  09  |2008 |
